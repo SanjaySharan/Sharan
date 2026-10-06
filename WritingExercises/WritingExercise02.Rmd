@@ -10,7 +10,7 @@ Each of the writing samples below violates at least one of Strunk and White’s 
 
 ## Principle: use the active voice
 
-An analysis was performed by scientists to understand the metabolic pathways in bacteria.
+scientists performed an analysis to understand the metabolic pathways in bacteria.
 
 ## Put statements in positive form.
 
